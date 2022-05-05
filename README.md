@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @azriAU!
+- 👀 I’m interested in software engineering and collaborating with bright minds.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on awesome projects and solve problems.
+- 📫 You can reach me at hello@azri.au.
